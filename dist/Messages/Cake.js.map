@@ -1,0 +1,1 @@
+{"version":3,"file":"Cake.js","sourceRoot":"","sources":["../../src/Messages/Cake.ts"],"names":[],"mappings":";;;AAAA,MAAa,IAAI;IAEb;QACI,OAAO,CAAC,GAAG,CAAC,qBAAqB,CAAC,CAAA;IACtC,CAAC;IAEM,YAAY;QACf,OAAO,IAAI,CAAC,cAAc,CAAC;IAC/B,CAAC;IAEM,YAAY,CAAC,SAAiB;QACjC,IAAI,CAAC,cAAc,GAAG,SAAS,CAAC;IACpC,CAAC;CACJ;AAbD,oBAaC"}
